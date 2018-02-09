@@ -23,7 +23,7 @@ export default new Router({
     {
       path: '/movies',
       name: 'Movies',
-      component:Movies
-    },
+      component: Movies
+    }
   ]
 })
